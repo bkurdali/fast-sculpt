@@ -1,10 +1,10 @@
 bl_info = {
     "name" : "Fast Sculpt",
-    "author" : "jayanam",
+    "author" : "jayanam, Bassam Kurdali",
     "description" : "Sculpting tools for Blender 2.8",
-    "blender" : (2, 80, 0),
-    "version" : (0, 7, 0, 3),
-    "location" : "View3D",
+    "blender" : (2, 90, 0),
+    "version" : (0, 7, 0, 4),
+    "location" : "View3D > UI > Fast Sculpt",
     "warning" : "",
     "category" : "Object"
 }
